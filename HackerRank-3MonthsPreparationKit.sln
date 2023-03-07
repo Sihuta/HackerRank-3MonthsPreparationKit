@@ -5,9 +5,11 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week-1", "Week-1", "{E1124E8D-1C6F-4919-A1BE-4E75D7B7D405}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisibleSumPairs", "Week-1\DivisibleSumPairs\DivisibleSumPairs.csproj", "{6F5B84E7-9C25-4858-BD7E-2FA0B201D45C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DivisibleSumPairs", "Week-1\DivisibleSumPairs\DivisibleSumPairs.csproj", "{6F5B84E7-9C25-4858-BD7E-2FA0B201D45C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CamelCase", "Week-1\CamelCase\CamelCase.csproj", "{C6187774-D62D-4AE8-B9E8-F9E610CEC371}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparseArrays", "Week-1\SparseArrays\SparseArrays.csproj", "{27CC740B-624A-438B-B3F6-25496334710C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +25,10 @@ Global
 		{C6187774-D62D-4AE8-B9E8-F9E610CEC371}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6187774-D62D-4AE8-B9E8-F9E610CEC371}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6187774-D62D-4AE8-B9E8-F9E610CEC371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27CC740B-624A-438B-B3F6-25496334710C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CC740B-624A-438B-B3F6-25496334710C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CC740B-624A-438B-B3F6-25496334710C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CC740B-624A-438B-B3F6-25496334710C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{6F5B84E7-9C25-4858-BD7E-2FA0B201D45C} = {E1124E8D-1C6F-4919-A1BE-4E75D7B7D405}
 		{C6187774-D62D-4AE8-B9E8-F9E610CEC371} = {E1124E8D-1C6F-4919-A1BE-4E75D7B7D405}
+		{27CC740B-624A-438B-B3F6-25496334710C} = {E1124E8D-1C6F-4919-A1BE-4E75D7B7D405}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8E056690-2D31-461C-95CE-3486076DA838}
