@@ -14,7 +14,20 @@
 
         public static int divisibleSumPairs(int n, int k, List<int> arr)
         {
-            return 0;
+            int count = 0;
+
+            for (int i = 0; i < n; ++i)
+            {
+                for (int j = i + 1; j < n; ++j)
+                {
+                    if ((arr[i] + arr[j]) % k == 0)
+                    {
+                        ++count;
+                    }
+                }
+            }
+
+            return count;
         }
 
     }
