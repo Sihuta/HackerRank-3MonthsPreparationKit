@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week-2", "Week-2", "{F36711
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LonelyInteger", "Week-2\LonelyInteger\LonelyInteger.csproj", "{0C224A6F-FD63-4681-91A3-2EA425DDCCAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradingStudents", "Week-2\GradingStudents\GradingStudents.csproj", "{AB92A630-8B7E-4EF9-B029-FACEB1AED19E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{0C224A6F-FD63-4681-91A3-2EA425DDCCAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C224A6F-FD63-4681-91A3-2EA425DDCCAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C224A6F-FD63-4681-91A3-2EA425DDCCAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB92A630-8B7E-4EF9-B029-FACEB1AED19E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB92A630-8B7E-4EF9-B029-FACEB1AED19E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB92A630-8B7E-4EF9-B029-FACEB1AED19E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB92A630-8B7E-4EF9-B029-FACEB1AED19E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,6 +52,7 @@ Global
 		{C6187774-D62D-4AE8-B9E8-F9E610CEC371} = {E1124E8D-1C6F-4919-A1BE-4E75D7B7D405}
 		{27CC740B-624A-438B-B3F6-25496334710C} = {E1124E8D-1C6F-4919-A1BE-4E75D7B7D405}
 		{0C224A6F-FD63-4681-91A3-2EA425DDCCAC} = {F36711C5-484F-49DA-96AF-D6FABEC6C039}
+		{AB92A630-8B7E-4EF9-B029-FACEB1AED19E} = {F36711C5-484F-49DA-96AF-D6FABEC6C039}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8E056690-2D31-461C-95CE-3486076DA838}
