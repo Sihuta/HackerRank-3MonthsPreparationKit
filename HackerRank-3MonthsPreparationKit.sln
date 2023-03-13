@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlippingBits", "Week-2\Flip
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiaginalDifference", "Week-2\DiaginalDifference\DiaginalDifference.csproj", "{8CCCBAE6-2CAF-455A-98D4-E946696BD711}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingSort-1", "Week-2\CountingSort-1\CountingSort-1.csproj", "{C4CFAB42-10D0-44D1-801F-EF5FA219090C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{8CCCBAE6-2CAF-455A-98D4-E946696BD711}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CCCBAE6-2CAF-455A-98D4-E946696BD711}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CCCBAE6-2CAF-455A-98D4-E946696BD711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4CFAB42-10D0-44D1-801F-EF5FA219090C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4CFAB42-10D0-44D1-801F-EF5FA219090C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4CFAB42-10D0-44D1-801F-EF5FA219090C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4CFAB42-10D0-44D1-801F-EF5FA219090C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,6 +73,7 @@ Global
 		{AB92A630-8B7E-4EF9-B029-FACEB1AED19E} = {F36711C5-484F-49DA-96AF-D6FABEC6C039}
 		{EBA49438-AF3C-4F82-9746-02BBAC1D4F39} = {F36711C5-484F-49DA-96AF-D6FABEC6C039}
 		{8CCCBAE6-2CAF-455A-98D4-E946696BD711} = {F36711C5-484F-49DA-96AF-D6FABEC6C039}
+		{C4CFAB42-10D0-44D1-801F-EF5FA219090C} = {F36711C5-484F-49DA-96AF-D6FABEC6C039}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8E056690-2D31-461C-95CE-3486076DA838}
