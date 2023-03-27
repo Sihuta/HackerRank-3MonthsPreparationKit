@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountingSort-1", "Week-2\Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingValleys", "Week-2\CountingValleys\CountingValleys.csproj", "{362245BF-B7EE-4E61-B997-DD073C0EB05F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pangrams", "Week-2\Pangrams\Pangrams.csproj", "{3446C6F3-F80A-4268-9F3A-4DAD23F1B328}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{362245BF-B7EE-4E61-B997-DD073C0EB05F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{362245BF-B7EE-4E61-B997-DD073C0EB05F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{362245BF-B7EE-4E61-B997-DD073C0EB05F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3446C6F3-F80A-4268-9F3A-4DAD23F1B328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3446C6F3-F80A-4268-9F3A-4DAD23F1B328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3446C6F3-F80A-4268-9F3A-4DAD23F1B328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3446C6F3-F80A-4268-9F3A-4DAD23F1B328}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,6 +87,7 @@ Global
 		{8CCCBAE6-2CAF-455A-98D4-E946696BD711} = {F36711C5-484F-49DA-96AF-D6FABEC6C039}
 		{C4CFAB42-10D0-44D1-801F-EF5FA219090C} = {F36711C5-484F-49DA-96AF-D6FABEC6C039}
 		{362245BF-B7EE-4E61-B997-DD073C0EB05F} = {F36711C5-484F-49DA-96AF-D6FABEC6C039}
+		{3446C6F3-F80A-4268-9F3A-4DAD23F1B328} = {F36711C5-484F-49DA-96AF-D6FABEC6C039}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8E056690-2D31-461C-95CE-3486076DA838}
