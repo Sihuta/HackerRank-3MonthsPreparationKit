@@ -35,6 +35,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week-3", "Week-3", "{5D617C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutingTwoArrays", "Week-3\PermutingTwoArrays\PermutingTwoArrays.csproj", "{B7409BAE-18A5-496E-9DB7-582C59CA2053}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubarrayDivision-2", "Week-3\SubarrayDivision-2\SubarrayDivision-2.csproj", "{3F6CD466-ED11-4896-BDB4-43F9ACB4B189}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{B7409BAE-18A5-496E-9DB7-582C59CA2053}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7409BAE-18A5-496E-9DB7-582C59CA2053}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7409BAE-18A5-496E-9DB7-582C59CA2053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F6CD466-ED11-4896-BDB4-43F9ACB4B189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F6CD466-ED11-4896-BDB4-43F9ACB4B189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F6CD466-ED11-4896-BDB4-43F9ACB4B189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F6CD466-ED11-4896-BDB4-43F9ACB4B189}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -111,6 +117,7 @@ Global
 		{6C022D17-23BA-4B74-944F-AAA241A9A7F1} = {F36711C5-484F-49DA-96AF-D6FABEC6C039}
 		{D2825069-DA27-4286-8676-255D2AF3E51A} = {F36711C5-484F-49DA-96AF-D6FABEC6C039}
 		{B7409BAE-18A5-496E-9DB7-582C59CA2053} = {5D617C96-C578-451D-B219-240E9EFD36C2}
+		{3F6CD466-ED11-4896-BDB4-43F9ACB4B189} = {5D617C96-C578-451D-B219-240E9EFD36C2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8E056690-2D31-461C-95CE-3486076DA838}
