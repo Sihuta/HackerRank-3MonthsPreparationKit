@@ -1,4 +1,4 @@
 ﻿using DrawingBook;
 
-var res = Result.pageCount(5, 3);
+var res = Result.pageCount(6, 5);
 Console.WriteLine(res);

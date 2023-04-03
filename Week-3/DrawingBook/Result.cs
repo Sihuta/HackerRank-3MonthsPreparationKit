@@ -21,6 +21,10 @@
                 return (fromStart + 1) / 2;
             }
 
+            if (n % 2 == 0)
+            {
+                ++fromEnd;
+            }
             return fromEnd / 2;
         }
     }
