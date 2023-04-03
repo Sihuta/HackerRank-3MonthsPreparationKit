@@ -41,6 +41,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalesByMatch", "Week-3\Sale
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigratoryBirds", "Week-3\MigratoryBirds\MigratoryBirds.csproj", "{D4DF93C1-D379-440D-9E89-9CB70D3354BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxPerimeterTriangle", "Week-3\MaxPerimeterTriangle\MaxPerimeterTriangle.csproj", "{A4ECDB53-D198-41D6-A859-D4988B0030FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{D4DF93C1-D379-440D-9E89-9CB70D3354BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4DF93C1-D379-440D-9E89-9CB70D3354BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4DF93C1-D379-440D-9E89-9CB70D3354BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4ECDB53-D198-41D6-A859-D4988B0030FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4ECDB53-D198-41D6-A859-D4988B0030FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4ECDB53-D198-41D6-A859-D4988B0030FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4ECDB53-D198-41D6-A859-D4988B0030FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -132,6 +138,7 @@ Global
 		{3F6CD466-ED11-4896-BDB4-43F9ACB4B189} = {5D617C96-C578-451D-B219-240E9EFD36C2}
 		{F5BC3301-2E75-4481-AD25-1B8BC99054B4} = {5D617C96-C578-451D-B219-240E9EFD36C2}
 		{D4DF93C1-D379-440D-9E89-9CB70D3354BD} = {5D617C96-C578-451D-B219-240E9EFD36C2}
+		{A4ECDB53-D198-41D6-A859-D4988B0030FC} = {5D617C96-C578-451D-B219-240E9EFD36C2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8E056690-2D31-461C-95CE-3486076DA838}
